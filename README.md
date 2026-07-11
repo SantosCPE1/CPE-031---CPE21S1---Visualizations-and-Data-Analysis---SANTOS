@@ -1,6 +1,3 @@
-![Uploading image.png…]()
-
-
 # CPE-031---CPE21S1---Visualizations-and-Data-Analysis---SANTOS
 
 ## Student information
