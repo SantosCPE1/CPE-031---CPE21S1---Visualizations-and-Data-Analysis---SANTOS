@@ -8,3 +8,4 @@
 
 ## Information
 Github repository created 11/07/2026
+- Proffessor: Sir. Jimlord Quejado
