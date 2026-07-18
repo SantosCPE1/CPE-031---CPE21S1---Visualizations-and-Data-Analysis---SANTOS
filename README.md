@@ -9,10 +9,11 @@
 - Year level: 2nd Year
 - Age: 19
 - Units: 26
-- 
+- Professor: Engr. Jimlord Quejado
+
 ---
 
-## Information
+## Description
 Github repository created 11/07/2026
-- Professor: Engr. Jimlord Quejado
+
 
