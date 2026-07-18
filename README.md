@@ -1,8 +1,7 @@
-<img width="736" height="439" alt="WOWERS" src="https://github.com/user-attachments/assets/b8df23ba-b4cc-4bc9-bef7-5abd50e062df" />
+<img width="595" height="336" alt="WOWEEWWW" src="https://github.com/user-attachments/assets/8fd7b43c-8e0b-4740-b9ba-5217e9a05d87" />
 
 
 ---
-
 ## Student information
 - Name: Adrian Walter D. Santos
 - Student Number: 2516501
