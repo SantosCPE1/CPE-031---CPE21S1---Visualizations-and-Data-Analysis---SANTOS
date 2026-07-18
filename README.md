@@ -12,7 +12,7 @@
 - Professor: Engr. Jimlord Quejado
 
 ---
-##Course Description
+## Course Description
 - Welcome to CPE 031: Visualizations and Data Analysis. In this course, we will explore how data can be collected, understood, visualized, and communicated. More than creating charts, this course will help you learn how to choose the right visual, design it with purpose, explain insights clearly, and communicate data honestly.
 ---
 ## Date
