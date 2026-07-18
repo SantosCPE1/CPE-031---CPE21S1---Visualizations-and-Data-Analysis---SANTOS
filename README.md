@@ -1,4 +1,4 @@
-## VISUALIAITONS AND DATA ANALYSIS
+## VISUALIZATONS AND DATA ANALYSIS
 
 <img width="595" height="336" alt="WOWEEWWW" src="https://github.com/user-attachments/assets/8fd7b43c-8e0b-4740-b9ba-5217e9a05d87" />
 
