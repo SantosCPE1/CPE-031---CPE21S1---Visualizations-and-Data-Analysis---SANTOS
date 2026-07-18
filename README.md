@@ -1,3 +1,4 @@
+<img width="617" height="324" alt="wowie" src="https://github.com/user-attachments/assets/aa589c1e-a163-423e-879a-fdeeeb06b39b" />
 
 
 
@@ -11,3 +12,4 @@
 ## Information
 Github repository created 11/07/2026
 - Proffessor: Sir. Jimlord Quejado
+
