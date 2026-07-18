@@ -2,9 +2,11 @@
 
 ## Student information
 - Name: Adrian Walter D. Santos
+- Student Number: 2516501
 - Year level: 2nd Year
+- Age: 19
 - Units: 26
-- Student Number: 150323
+
 
 ## Information
 Github repository created 11/07/2026
